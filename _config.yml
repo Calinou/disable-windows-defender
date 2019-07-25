@@ -1,0 +1,6 @@
+baseurl: /disable-windows-defender
+exclude:
+  - LICENSE.md
+permalink: pretty
+sass:
+  style: compressed
